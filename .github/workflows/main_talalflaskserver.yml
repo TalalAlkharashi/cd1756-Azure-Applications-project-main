@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TalalFlaskServer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F48A21C04D1049CBBD22C723F0F7FCF3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B461830EC7FC46BDA7C9A69ED741FD36 }}
